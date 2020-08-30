@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/CtrlJus/JUSTINEFALL2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CtrlJus/JUSTINEFALL2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!-- anything that looks like this is a comment and will not show up when you look at this page. feel free to remove them if you want to clean up the document -->
+<!-- to preview this page find it on your computer and double click it, that should open the file up in your browser so you can see what it looks like -->
+<!DOCTYPE html>
+<html>
+  <!-- the head element contains elements pertain to the document but are not rendered as content -->
+  <head>
+    <meta charset="utf-8">
+    <!-- the content in the title element is what shows up in the tab of the browser window -->
+    <title>E1</title>
+  </head>
+  <!-- the body element contains the content of the document, everything you want to show up in the browser window -->
+  <body>
+    <!-- this is an h1 element and should be used for the largest, most important text on the page (typically the title of the page) -->
+    <h1>E1: 20 Questions</h1>
+    <!-- this is an h2 element and is slightly smaller than the h1 element -->
+    <h2>Question 1</h2>
+    <!-- this is a paragraph element, each paragraph on the page is wrapped in a paragraph element -->
+    <p>Q: When is a normal time for you to go to sleep?</p>
+    <p>A: </p>
+    <h2>Question 2</h2>
+    <p>Q: What is your favorite bird?</p>
+    <p>A: </p>
+    <h2>Question 3</h2>
+    <p>Q: What is the best food for a cool fall day?</p>
+    <p>A: </p>
+    <!-- to finish out your 20 questions you can can either type the same set up as above or copy and paste. I would encourage typing a few so you can get in the hang of opening an element (i.e. <p>), typing in some content (i.e. the question or answer), then closing the element (i.e. </p>) -->
+  </body>
+</html>
