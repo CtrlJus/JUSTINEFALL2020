@@ -1,6 +1,10 @@
-</body>
-</html>
-   <title>E1</title>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>E1</title>
+  </head>
+  <body>
     <h1>E1: 20 Questions</h1>
     <h2>Question 1</h2>
     <p>Q: When is a normal time for you to go to sleep?</p>
