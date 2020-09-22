@@ -1,7 +1,14 @@
-h1 {
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
   background-color: lightblue;
+}
+
+h1 {
   color: white;
 }
-p {
-  color: white;
-}
+</style>
+</head>
+<body>
