@@ -10,3 +10,9 @@ h2 {
 h3 {
   color: white;
 }
+p {
+  color: Black;
+}
+p.impact {
+  font-family: Impact, sans-serif;
+}
