@@ -7,17 +7,25 @@ h1 {
 p {
   color: white;
 }
+h2.rigid-square{
+font-family: rigid-square,sans-serif;
+font-weight: 700;
+font-style: normal;
+}
 a{
 text-decoration: none;
 color: white;
 }
-
 a:visited{
 text-decoration: none;
 color: white;
 }
-
 ul {
   text-align: center;
   list-style: inside;
+}
+ul.rigid-square{
+font-family: rigid-square,sans-serif;
+font-weight: 700;
+font-style: normal;
 }
