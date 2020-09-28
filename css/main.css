@@ -15,3 +15,13 @@ color: white;
 a:visited{
 text-decoration: none;
 color: white;
+}
+
+ul#horizontal-list {
+	min-width: 696px;
+	list-style: none;
+	padding-top: 20px;
+	}
+	ul#horizontal-list li {
+		display: inline;
+	}
