@@ -38,3 +38,6 @@ ul.spanbolditalic{
   font-weight: 700;
   font-style: italic;
 }
+ul {
+  color: Black;
+}
