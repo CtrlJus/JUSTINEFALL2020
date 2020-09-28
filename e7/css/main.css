@@ -33,3 +33,8 @@ p.spanbolditalic{
   font-weight: 700;
   font-style: italic;
 }
+ul.spanbolditalic{
+  font-family: span, serif;
+  font-weight: 700;
+  font-style: italic;
+}
