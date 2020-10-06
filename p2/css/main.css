@@ -30,10 +30,10 @@ li a:hover {
 <body>
 
 <ul>
-  <li><a class="active"href="#index.html">Home</a></li>
-  <li><a href="about">about</a></li>
-  <li><a href="menu">Contact</a></li>
-  <li><a href="events">events</a></li>
+  <li><a class="#active"href="#index.html">Home</a></li>
+  <li><a href="#about">about</a></li>
+  <li><a href="#menu">Contact</a></li>
+  <li><a href="#events">events</a></li>
 </ul>
 
 </body>
