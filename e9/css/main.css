@@ -14,12 +14,12 @@ main {
       margin: 50px;
       float: left;
     }
-.element {
-      height: 500px;
-      width: 500px;
-      background: orange;
-      border-radius: 50%;
-    }
+.circle {
+           height: 70px;
+           width: 70px;
+           background-color: orange; 
+           border-radius: 50%;
+       }
 .triangle {
         width: 150px;
         height: 150px;
