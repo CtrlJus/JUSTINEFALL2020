@@ -58,3 +58,4 @@ font-style: normal;
    div.a {
      text-align: center;
    }
+  ul{ list-style-type: none; }
