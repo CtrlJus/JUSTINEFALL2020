@@ -7,9 +7,13 @@ body {
 main {
 
 }
+Div{
+  width: 100px
+  height: 100px
+}
 .square {
-      width: 150px;
-      height: 150px;
+      width: 100x;
+      height: 100px;
       background: red;
       margin: 50px;
       float: left;
@@ -17,7 +21,7 @@ main {
 .circle {
            height: 70px;
            width: 70px;
-           background-color: orange; 
+           background-color: orange;
            border-radius: 50%;
        }
 .triangle {
