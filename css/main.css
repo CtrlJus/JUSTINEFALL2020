@@ -1,6 +1,10 @@
 body {
   background-color: lightgreen;
 }
+h1 {
+  color:Blue;
+}
+}
 h2 {
   color:white;
 }
@@ -8,6 +12,11 @@ p {
   color: white;
 }
 h2.rigid-square{
+font-family: rigid-square,sans-serif;
+font-weight: 700;
+font-style: normal;
+}
+h1.rigid-square{
 font-family: rigid-square,sans-serif;
 font-weight: 700;
 font-style: normal;
