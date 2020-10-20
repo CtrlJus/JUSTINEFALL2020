@@ -30,19 +30,19 @@ font-weight: 700;
 font-style: normal;
 }
    .left, .right {
-      height: 50%;
-      width: 50%;
+      height: 70%;
+      width: 70%;
       position: fixed;
       overflow-x: hidden;
       padding-top: 20px;
    }
    .left {
       left: 0;
-      background-color: rgb(36, 0, 95);
+      background-color: orange;
    }
    .right {
       right: 0;
-      background-color: rgb(56, 1, 44);
+      background-color: pink;
    }
    .centered {
       position: absolute;
