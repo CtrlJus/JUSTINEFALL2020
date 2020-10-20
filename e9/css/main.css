@@ -14,7 +14,7 @@ main {
       margin: 50px;
       float: left;
     }
-.shape1 {
+.circle {
       width: 200px;
       height: 100px;
       background: orange;
@@ -27,5 +27,5 @@ main {
         background:green;
         margin: 50px;
         float: left;
-}
+   }
 ul{ list-style-type: none; }
