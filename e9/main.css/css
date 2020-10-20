@@ -8,13 +8,25 @@
       height: 100px;
       background: orange;
     }
-.circle {
-        width: 100px;
-        height: 100px;
-        background: yellow;
-        border-radius: 50%
-      }
-      .triangle {
+    circle {
+        height: 200px;
+        width: 200px;
+        border-radius: 50%;
+      background-color: #yellow;
+    }
+
+    body, html {
+      height: 100%;
+    }
+
+    body {
+      padding: 0;
+      background-color: #yellow;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+.triangle {
         height: 0;
         width: 0;
         border-left: 100px solid green;
