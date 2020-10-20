@@ -1,26 +1,30 @@
-*{
+* {
   box-sizing: border-box;
 }
-body{
+body {
   margin: 0;
 }
-main{
-  
+main {
+
 }
 .square {
       width: 100px;
       height: 100px;
       background: red;
+      margin: 50px;
+      float: left;
     }
 .rectangle {
       width: 200px;
       height: 100px;
       background: orange;
+      margin: 50px;
+      float: left;
     }
 .triangle {
-        height: 0;
-        width: 0;
-        border-left: 100px solid green;
-        border-right: 100px solid transparent;
-        border-bottom: 100px solid transparent;
-        border-top: 100px solid transparent;
+        height: 200px;
+        width: 100px;
+        background:green;
+        margin: 50px;
+        float: left;
+}
