@@ -29,3 +29,7 @@ font-family: rigid-square,sans-serif;
 font-weight: 700;
 font-style: normal;
 }
+<div class="row">
+  <div class="column"></div>
+  <div class="column"></div>
+</div>
