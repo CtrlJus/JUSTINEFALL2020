@@ -30,7 +30,7 @@ font-weight: 700;
 font-style: normal;
 }
    .left, .right {
-      height: 50%;
+      height: 70%;
       width: 50%;
       position: fixed;
       overflow-x: hidden;
