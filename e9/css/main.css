@@ -7,6 +7,13 @@ body {
 main {
 
 }
+div {
+  width: 100px;
+  height: 100px;
+  background: red;
+  margin: 50px;
+  float: left;
+}
 .square {
       width: 100px;
       height: 100px;
