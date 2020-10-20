@@ -8,8 +8,8 @@ main {
 
 }
 .square {
-      width: 100px;
-      height: 100px;
+      width: 150px;
+      height: 150px;
       background: red;
       margin: 50px;
       float: left;
@@ -21,8 +21,8 @@ main {
       border-radius: 50%;
     }
 .triangle {
-        width: 100px;
-        height: 100px;
+        width: 150px;
+        height: 150px;
         border-left: 25px solid transparent;
         border-right: 25px solid transparent;
         border-top: 50px solid yellow;
