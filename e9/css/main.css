@@ -11,16 +11,16 @@ main {
 }
 div  {
     float: left;
-}  
+}
 .square {
-      width: 150x;
-      height: 1500px;
+      width: 100x;
+      height: 100px;
       background: red;
-      margin: 50px;
-      float: left;
+      margin: -15px;
+      opacity: .5;
 }
 .circle {
-      height: 70px;
+      height: px;
       width: 70px;
       background-color: orange;
       border-radius: 50%;
