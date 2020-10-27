@@ -60,3 +60,7 @@ body {
   display: table;
   clear: both;
 }
+.child {
+  ...
+  margin: 0 auto;
+}
