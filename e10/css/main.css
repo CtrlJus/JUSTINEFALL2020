@@ -48,7 +48,7 @@ body {
     padding: 20px;
 }
 .float-child {
-    width: 50%;
+    width: 30%;
     float: left;
-    padding: 20px;
+    padding: 10px;
 }
