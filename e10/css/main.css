@@ -20,43 +20,40 @@ body {
 .black {
   background-color: #333333;
 }
-}
 .rectangle {
   height:100px;
-  width: 638px;
+  width: 640px;
   background-color: green;
-  float: left;
 }
 .shape2 {
   height:30px;
-  width: 638px;
+  width: 640px;
   background-color: pink;
-  float: left;
 }
 .shape3 {
-  height:5px;
+  height: 7px;
   width: 1000px;
   background-color: white;
-  float: left;
 }
 .rectangle2 {
   height:550px;
-  width: 200px;
+  width: 1000px;
   background-color: green;
+  float: right;
 }
 .column1 {
-  float: left;
   width: 200px;
-  padding: 40px;
+  padding: 10px;
   height: 300px;
   Background-color: green;
+  float: left;
 }
 .column2 {
-  float: left;
-  width: 10px;
+  width: 0.05%;
   padding: 10px;
   height: 300px;
   Background-color: white;
+  float: left;
 }
 .row:after {
   content: "";
