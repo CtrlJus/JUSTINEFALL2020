@@ -20,15 +20,16 @@ body {
 .black {
   background-color: #333333;
 }
+}
 .rectangle {
   height:100px;
-  width: 1000px;
+  width: 638px;
   background-color: green;
   float: left;
 }
 .shape2 {
   height:30px;
-  width: 1000px;
+  width: 638px;
   background-color: pink;
   float: left;
 }
@@ -45,14 +46,14 @@ body {
 }
 .column1 {
   float: left;
-  width: 25%;
-  padding: 10px;
-  height: 200px;
+  width: 200px;
+  padding: 40px;
+  height: 300px;
   Background-color: green;
 }
 .column2 {
   float: left;
-  width: 0.05%;
+  width: 10px;
   padding: 10px;
   height: 300px;
   Background-color: white;
