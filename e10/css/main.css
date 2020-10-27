@@ -1,3 +1,17 @@
-.grid {
-      grid-template-rows: repeat(2, 25vw);
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+.Green, .white{
+  width: 100px;
+  height: 100px;
+  float: left;
+}
+.green {
+  background-color: #green;
+}
+.white {
+  background-color: #white;
 }
