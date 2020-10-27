@@ -23,12 +23,12 @@ body {
 .rectangle {
   height:10px;
   width: 1000px;
-  background-color: #green;
+  background-color: green;
   float: left;
 }
-.rectangle2 {
+.shape2 {
   height:50px;
   width: 1000px;
-  background-color: #green;
+  background-color: green;
   float: left;
 }
