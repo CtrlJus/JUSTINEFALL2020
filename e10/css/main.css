@@ -20,3 +20,8 @@ body {
 .black {
   background-color: #333333;
 }
+.rectangle {
+  height:10px;
+  width: 1000px;
+  background-color: #green;
+}
