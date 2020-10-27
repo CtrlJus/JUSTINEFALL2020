@@ -11,7 +11,7 @@ body {
  display: flow-root;
  margin: 25px auto;
 }
-.Green, .white{
+.Green, .tan{
   width: 100px;
   height: 100px;
   float: left;
@@ -19,6 +19,6 @@ body {
 .green {
   background-color: #green;
 }
-.white {
-  background-color: #white;
+.tan {
+  background-color: #tan;
 }
