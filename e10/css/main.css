@@ -4,6 +4,13 @@
 body {
   margin: 0;
 }
+.board {
+ width: 990px;
+ background-color: whitesmoke;
+ padding: 50px;
+ display: flow-root;
+ margin: 25px auto;
+}
 .Green, .white{
   width: 100px;
   height: 100px;
