@@ -24,9 +24,11 @@ body {
   height:10px;
   width: 1000px;
   background-color: #green;
+  float: left;
 }
 .rectangle2 {
   height:50px;
   width: 1000px;
-  background-color: #555;
+  background-color: #green;
+  float: left;
 }
