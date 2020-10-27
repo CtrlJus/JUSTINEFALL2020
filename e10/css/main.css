@@ -32,3 +32,17 @@ body {
   background-color: pink;
   float: left;
 }
+.shape3 {
+  height:5px;
+  width: 1000px;
+  background-color: white;
+  float: left;
+}
+.rectangle2 {
+  height:2000px;
+  width: 200px;
+  background-color: green;
+}
+.container {
+	display: flex;
+}
