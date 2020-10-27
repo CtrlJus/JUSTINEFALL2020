@@ -21,7 +21,7 @@ body {
   background-color: #333333;
 }
 .rectangle {
-  height:10px;
+  height:100px;
   width: 1000px;
   background-color: green;
   float: left;
