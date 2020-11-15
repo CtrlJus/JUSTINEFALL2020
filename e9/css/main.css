@@ -9,26 +9,26 @@ main {
   width: 132vw;
   margin: -50px -15vw;
 }
-.square {
+#p1 .square {
   height: 100px;
   width: 50px;
   background-color: red;
   margin: -150px -150px;
 }
-.circle {
+#p1 .circle {
   height: 50px;
   width: 50px;
   background-color: green;
   border-radius: 50%;
 }
-.triangle-up {
+#p1 .triangle-up {
 	width: 0;
 	height: 0;
 	border-left: 25px solid transparent;
 	border-right: 25px solid transparent;
 	border-bottom: 50px solid yellow;
 }
-.oval {
+#p1 .oval {
   height: 50px;
   width: 100px;
   background-color: orange;
