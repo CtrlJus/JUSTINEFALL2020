@@ -1,47 +1,55 @@
-* {
-  box-sizing: border-box;
 }
-body {
-  margin: 0;
-  overflow-x: hidden;
-}
-main {
-  width: 132vw;
-  margin: -50px -15vw;
-}
-#p1 .square {
-  height: 100px;
-  width: 50px;
+#p1 .shape1 {
   background-color: red;
-  margin: -150px -150px;
-}
-#p1 .circle {
-  height: 50px;
-  width: 50px;
-  background-color: green;
+  width: 100px;
+  height: 100px;
+  margin: -15px;
+  float: left;
+  opacity: .5;
   border-radius: 50%;
 }
-#p1 .triangle-up {
-	width: 0;
-	height: 0;
-	border-left: 25px solid transparent;
-	border-right: 25px solid transparent;
-	border-bottom: 50px solid yellow;
-}
-#p1 .oval {
-  height: 50px;
-  width: 100px;
+#p1 .shape2 {
   background-color: orange;
+  width: 50px;
+  height: 100px;
+  margin: -15px -7.5px;
+  float: left;
+  opacity: .5;
+  transform: rotate(20deg);
+  border: 5px solid black;
+}
+#p1 .shape3 {
+  background-color: yellow;
+  width: 25px;
+  height: 100px;
+  margin: -15px -3.75px;
+  float: left;
+  opacity: .5;
+}
+#p2 .shape1 {
+  width: 1000px;
+  height: 1000px;
+  margin: -200px -150px;
+  float: left;
+  opacity: .5;
+  transform: rotate(20deg);
+  border: 50px solid black;
   border-radius: 50%;
 }
-.parallelogram {
-	width: 100px;
-	height: 50px;
-	transform: skew(20deg);
-	background: purple;
+#p2 .shape2 {
+  width: 1000px;
+  height: 1000px;
+  margin: -150px -150px;
+  float: left;
+  opacity: .5;
+  transform: rotate(20deg);
+  border: 50px solid black;
 }
-.rectangle {
-  height: 50px;
-  width: 100px;
-  background-color: pink;
+#p2 .shape3 {
+  width: 1000px;
+  height: 1000px;
+  margin: -150px -375px;
+  float: left;
+  opacity: .5;
+  border: 50px solid black;
 }
