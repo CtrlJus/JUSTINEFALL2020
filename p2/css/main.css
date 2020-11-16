@@ -9,7 +9,7 @@ ul {
 }
 
 li {
-  float: left;
+  float: right;
 }
 
 li a {
@@ -19,3 +19,15 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
 }
+h2.helvetica-neue{
+font-family: helvetica,sans-serif;
+font-weight: 700;
+font-style: normal;
+}
+.left{
+   height: 70%;
+   width: 50%;
+   position: fixed;
+   overflow-x: hidden;
+   padding-top: 20px;
+ }
