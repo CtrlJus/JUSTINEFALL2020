@@ -12,7 +12,8 @@
   width: 50px;
   background-color: green;
   margin: -15px -7.5px;
-  float: left;;
+  float: left;
+  border-radius: 50%;
 }
 #p1 .shape3 {
   background-color: yellow;
