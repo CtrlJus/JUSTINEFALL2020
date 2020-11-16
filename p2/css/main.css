@@ -19,3 +19,8 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
 }
+.rectangle {
+   width: 1440px;
+   height: 100px;
+   background: #D29C85;
+ }
