@@ -1,15 +1,11 @@
 body {
   background-color: #FFE3C0;
 }
-h1 {
-  color:white;
-}
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #DEB887;
 }
 
 li {
@@ -19,14 +15,7 @@ li {
 li a {
   display: block;
   color: black;
-  text-align: center;
+  text-align: right;
   padding: 14px 16px;
   text-decoration: none;
-}
-
-li a:hover {
-  background-color: #D2B48C;
-}
-div.a {
-  text-align: center;
 }
