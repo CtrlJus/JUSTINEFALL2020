@@ -30,3 +30,8 @@ li a:hover {
 div.a {
   text-align: center;
 }
+div.image1 {
+   content:url(<img src="images/pc1.png" alt="logo")
+   width: 100px
+   height: 100px
+}
