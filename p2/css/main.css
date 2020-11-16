@@ -39,3 +39,9 @@ li a {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+.rectangle2 {
+   width: 1440px;
+   height: 100px;
+   background:#FFE3C0;
+   margin: 0;
+ }
