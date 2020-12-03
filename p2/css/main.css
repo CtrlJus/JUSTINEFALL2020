@@ -115,3 +115,15 @@ a:hover {
 a:active {
   color: black;
 }
+a.two:link {
+  color: white;
+}
+a.two:visited {
+  color: white;
+}
+a.two:hover {
+  color: white;
+}
+a.two:active {
+  color: white;
+}
