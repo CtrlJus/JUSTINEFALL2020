@@ -155,8 +155,7 @@ a.two {
   height: 100px;
   margin: 20px;
 }
-h2.2 {
-  height: 200px;
-  margin: 20px;
+h2.two {
+  font-height: 200px;
   font-family: Arial;
 }
