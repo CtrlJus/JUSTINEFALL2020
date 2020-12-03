@@ -3,6 +3,7 @@ body {
 }
 h2 {
   color: BLACK;
+  font-family: Arial;
 }
 ul {
   list-style-type: none;
