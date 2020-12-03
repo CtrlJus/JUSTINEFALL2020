@@ -151,11 +151,8 @@ a.two {
 }
 .box {
   width: 500px;
-  border: 10px solid black;
-  height: 100px;
-  margin: 20px;
-}
-h2.two {
-  line-height: 100px;
-  font-family: Arial;
+ border: 15px solid black;
+ padding: 50px;
+ margin: 20px;
+ line-height: 0.5%;
 }
