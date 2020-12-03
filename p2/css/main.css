@@ -189,13 +189,17 @@ color: black;
   text-align: center;
   color: black;
 }
-  .topnav {
-    position: relative;
-    overflow: hidden;
+#nav {
+width:750px;
+margin:0 auto;
+list-style:none;
 }
-.topnav-centered a {
-  float: none;
-  position: absolute;
-  top: 50%;
-  left: 50%;
+#nav li {
+float:left;
+}
+#nav a {
+display:block;
+text-align:center;
+width:150px;
+text-decoration:none;
 }
