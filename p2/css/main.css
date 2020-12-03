@@ -189,9 +189,14 @@ color: black;
   text-align: center;
   color: black;
 }
+div {
+position:relative;
+}
 #nav {
+position:absolute;
+left:50%;top:0;
+margin-left:-375px;
 width:750px;
-margin:0 auto;
 list-style:none;
 }
 #nav li {
