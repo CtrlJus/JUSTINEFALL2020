@@ -190,12 +190,16 @@ color: black;
   color: black;
 }
 #nav {
-text-align:center;
+width:750px;
+margin:0 auto;
+list-style:none;
 }
 #nav li {
-display:inline;
+float:left;
 }
 #nav a {
+display:block;
+text-align:center;
+width:150px;
 text-decoration:none;
-padding:0 30px;
 }
