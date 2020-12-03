@@ -216,7 +216,7 @@ text-decoration:none;
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%,-40%);
+  transform: translate(-50%,-60%);
 }
 .box2 {
   background-color: white;
