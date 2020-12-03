@@ -203,3 +203,10 @@ text-align:center;
 width:150px;
 text-decoration:none;
 }
+.box2 {
+ width: 500px;
+ background-color: white
+ height: 100px
+ margin: 20px;
+ line-height: 0.5%;
+ font-size: 50px
