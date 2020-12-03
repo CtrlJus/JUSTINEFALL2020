@@ -189,7 +189,7 @@ div.parent {
 ul.nav {
   display: inline-block;
   color: black;
-  text-align: left;
+  text-align: right;
   padding: 14px 16px;
   text-decoration: none;
   }
