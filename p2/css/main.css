@@ -173,27 +173,26 @@ color: black;
  line-height: 0.5%;
  font-size: 50px
 }
-#text-container
-{
-width: 400px;
-Display: block;
-Float: left;
+.container33{
+  position: relative;
+  text-align: center;
+  color: black;
 }
-
-#text-left
-{
-Width: 200px;
-Text-align: left;
-Float: left;
-Display: block;
+.t-left {
+  position: absolute;
+  top: 114px;
+  left: 15px;
 }
-
-#text-right
-{
-Width: 200px;
-Text-align: right;
-Float: left;
-Display: block;
+  .centered50 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.t-right {
+  position: absolute;
+  top: 114px;
+  right: 15px;
 }
 .container25 {
   position: relative;
