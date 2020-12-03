@@ -152,6 +152,6 @@ a.two {
 .box {
   width: 400px;
   border: 10px solid black;
-  padding: 50px;
+  height: 200px;
   margin: 20px;
 }
