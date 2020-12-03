@@ -187,6 +187,9 @@ div.parent {
 	text-align: center;
 	}
 ul.nav {
-	display: inline-block;
-	text-align: left;
-	}
+  display: block;
+  color: black;
+  text-align: right;
+  padding: 14px 16px;
+  text-decoration: none;
+  }
