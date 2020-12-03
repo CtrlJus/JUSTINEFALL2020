@@ -183,24 +183,18 @@ color: black;
   top: 114px;
   left: 15px;
 }
-  .centered50 {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+.nav{
+    border:1px solid #ccc;
+    border-width:1px 0;
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
 }
-.t-right {
-  position: absolute;
-  top: 114px;
-  right: 15px;
+.nav li{
+    display:inline;
 }
-.container25 {
-  position: relative;
-  text-align: center;
-  color: black;
-}
-  .top-left {
-  position: absolute;
-  top: 60px;
-  left: 16px;
+.nav a{
+    display:inline-block;
+    padding:10px;
 }
