@@ -168,10 +168,11 @@ color: black;
 .box {
   width: 500px;
  border: 5px solid black;
- height: 200px
+ height: 100px
  margin: 20px;
  line-height: 0.5%;
  font-size: 50px
+
 }
 .container33{
   position: relative;
