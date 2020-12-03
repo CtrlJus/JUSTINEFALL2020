@@ -195,7 +195,7 @@ margin:0 auto;
 list-style:none;
 }
 #nav li {
-float:left;
+float:none;
 }
 #nav a {
 display:block;
