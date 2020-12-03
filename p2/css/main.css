@@ -163,7 +163,8 @@ color: black;
   top: 50px;
   left: 50px;
   text-align: left;
-  font-size: 30px
+  font-size: 50px
+  transform: translate(-50%, -50%);
 }
 .box {
   width: 500px;
