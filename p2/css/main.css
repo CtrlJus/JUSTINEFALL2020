@@ -218,3 +218,10 @@ text-decoration:none;
   left: 50%;
   transform: translate(-50%,500%);
 }
+.box2 {
+  background-color: white;
+  width: 300px;
+  border: 15px solid white;
+  padding: 50px;
+  margin: 20px;
+}
