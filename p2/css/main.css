@@ -173,3 +173,25 @@ color: black;
  line-height: 0.5%;
  font-size: 50px
 }
+#text-container
+{
+width: 400px;
+Display: block;
+Float: left;
+}
+
+#text-left
+{
+Width: 200px;
+Text-align: left;
+Float: left;
+Display: block;
+}
+
+#text-right
+{
+Width: 200px;
+Text-align: right;
+Float: left;
+Display: block;
+}
