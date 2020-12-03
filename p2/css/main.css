@@ -183,16 +183,10 @@ color: black;
   top: 114px;
   left: 15px;
 }
-.nav{
-    list-style:none;
-    margin:0;
-    padding:0;
-    text-align:center;
-}
-.nav li{
-    display:inline;
-}
-.nav a{
-    display:inline-block;
-    padding:10px;
-}
+div.parent {
+	text-align: center;
+	}
+ul.nav {
+	display: inline-block;
+	text-align: left;
+	}
