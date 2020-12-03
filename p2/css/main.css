@@ -183,13 +183,3 @@ color: black;
   top: 114px;
   left: 15px;
 }
-div.parent {
-	text-align: center;
-	}
-ul.nav {
-  display: block;
-  color: black;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  }
