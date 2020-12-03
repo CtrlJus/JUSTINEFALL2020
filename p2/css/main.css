@@ -106,15 +106,19 @@ input[type=submit]:hover {
 }
 a:link {
   color: black;
+  text-decoration: none
 }
 a:visited {
   color: black;
+  text-decoration: none
 }
 a:hover {
   color: black;
+  text-decoration: none
 }
 a:active {
   color: black;
+  text-decoration: none
 }
 a.two:link {
   color: white;
