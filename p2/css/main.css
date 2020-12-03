@@ -106,23 +106,18 @@ input[type=submit]:hover {
 }
 a:link {
   color: black;
-  text-decoration: none
 }
 a:visited {
   color: black;
-  text-decoration: none
 }
 a:hover {
   color: black;
-  text-decoration: none
 }
 a:active {
   color: black;
-  text-decoration: none
 }
 a.two:link {
   color: white;
-  text-decoration: none;
 }
 a.two:visited {
   text-decoration: none;
@@ -138,6 +133,21 @@ color: white;
 }
 a.two {
   font-size: 200px
+}
+  a.three:link {
+    color: black;
+}
+a.three:visited {
+  text-decoration: none;
+  color: black;
+}
+a.three:hover {
+  text-decoration: none;
+  color: black;
+}
+a.three:active {
+text-decoration: none;
+color: black;
 }
 .container21 {
     display: block;
