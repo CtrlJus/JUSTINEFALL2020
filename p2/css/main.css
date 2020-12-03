@@ -156,6 +156,6 @@ a.two {
   margin: 20px;
 }
 h2.two {
-  font-height: 200px;
+  line-height: 100px;
   font-family: Arial;
 }
