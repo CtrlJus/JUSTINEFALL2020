@@ -150,8 +150,8 @@ a.two {
   font-size: 50px
 }
 .box {
-  width: 300px;
-  border: 15px solid black;
-  padding: 50px;
-  margin: 20px;
+  width: 200px;
+  border: 10px solid black;
+  padding: 40px;
+  margin: 10px;
 }
