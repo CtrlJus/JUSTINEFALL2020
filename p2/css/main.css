@@ -118,6 +118,7 @@ a:active {
 }
 a.two:link {
   color: white;
+text-decoration: none;
 }
 a.two:visited {
   text-decoration: none;
@@ -136,6 +137,7 @@ a.two {
 }
   a.three:link {
     color: black;
+text-decoration: none;
 }
 a.three:visited {
   text-decoration: none;
