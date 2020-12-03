@@ -117,13 +117,17 @@ a:active {
 }
 a.two:link {
   color: white;
+  text-decoration: none;
 }
 a.two:visited {
+  text-decoration: none;
   color: white;
 }
 a.two:hover {
+  text-decoration: none;
   color: white;
 }
 a.two:active {
-  color: white;
+text-decoration: none;
+color: white;
 }
