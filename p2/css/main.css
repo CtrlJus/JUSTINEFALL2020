@@ -1,13 +1,15 @@
 body {
   background-color: #FFE3C0;
 }
+h2 {
+  color: BLACK;
+}
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
 }
-
 li {
   float: right;
 }
