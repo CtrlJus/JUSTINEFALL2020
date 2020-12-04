@@ -156,7 +156,6 @@ color: black;
     margin-left: auto;
     margin-right: auto;
     width:200px;
-    height:200px;
 }
 .top-left {
   position: absolute;
@@ -190,17 +189,15 @@ color: black;
   color: black;
 }
 #nav {
-width:750px;
+width:510px;
 margin:0 auto;
 list-style:none;
 }
 #nav li {
-float:none;
 }
 #nav a {
 display:block;
 text-align:center;
-width:150px;
 text-decoration:none;
 }
 .box2 {
