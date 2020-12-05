@@ -227,6 +227,31 @@ display: flex;
 width: 200px;
 float: left;
 }
+.topnav {
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  color: black;
+}
+
+.topnav a.active {
+  color: black;
+}
+
+.topnav .icon {
+  display: none;
+}
 @media screen and (max-width: 320px) {
   .topnav a:not(:first-child) {display: none;}
   .topnav a.icon {
