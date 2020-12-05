@@ -242,8 +242,8 @@ float: left;
 }
 .text2{
 width: 50%;
-float: auto;
-margin: 25px;
+float: left;
+margin: auto;
 padding: 10px;
 }
 .text3{
