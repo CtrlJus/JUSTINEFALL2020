@@ -235,7 +235,7 @@ float: left;
 .text2{
 width: 500px;
 float: left;
-margin: 50px;
+transform: translate(25%,50%) 
 }
 .text3{
   width: 500px;
