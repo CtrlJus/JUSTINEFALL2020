@@ -242,7 +242,7 @@ float: left;
 }
 .text2{
 width: 500px;
-float: none;
+float: inherit;
 margin: 25px;
 }
 .text3{
