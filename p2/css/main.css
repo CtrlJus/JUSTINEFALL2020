@@ -225,7 +225,5 @@ text-decoration:none;
 .parent {
 display: flex;
 width: 200px;
-flex: 2;
 float: left;
-width: 23%;
 }
