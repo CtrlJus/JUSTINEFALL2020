@@ -228,17 +228,17 @@ width: 100%;
 float: left;
 }
 .text1{
-  width:200px;
+  width: 100px;
   float: left;
   margin: 0px;
 }
 .text2{
-width: 200px;
-float: left;
+width: 100px;
+float: right
 margin: 0px;
 }
 .text3{
-  width: 200px
+  width: 100px
   float: left;
   margin: 0px;
 }
