@@ -222,3 +222,8 @@ text-decoration:none;
   padding: 50px;
   margin: 20px;
 }
+.parent {
+  display: flex;
+  width: 200px;
+  flex: 1;
+}
