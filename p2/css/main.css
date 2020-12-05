@@ -239,12 +239,12 @@ float: left;
   width: 250px;
   float: left;
   margin: 0px;
-  padding: 10px
+  padding: 5px
 }
 .text2{
 width: 800px;
 margin: 0px;
-padding: 10px;
+padding: 5px;
 float: left;
 text-align: center;
 }
@@ -252,5 +252,5 @@ text-align: center;
   width: 500px;
   float: right;
   margin: 0;
-  padding: 10px;
+  padding: 5px;
 }
