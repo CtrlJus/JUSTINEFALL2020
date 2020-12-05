@@ -233,12 +233,12 @@ float: left;
   margin: auto;
 }
 .text2{
-width: 100px;
+width: 200px;
 float: right;
-margin: 0px;
+margin: auto;
 }
 .text3{
-  width:100px
+  width: 300px
   float: right;
-  margin: 0px;
+  margin: auto;
 }
