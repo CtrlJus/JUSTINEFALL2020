@@ -228,7 +228,7 @@ width: 100%;
 float: left;
 }
 .text1{
-  width:100px;
+  width:200px;
   float: right;
   margin: auto;
 }
@@ -239,6 +239,6 @@ margin: auto;
 }
 .text3{
   width: 300px
-  float: right;
+  float: left;
   margin: auto;
 }
