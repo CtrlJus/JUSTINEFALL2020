@@ -234,11 +234,11 @@ float: left;
 }
 .text2{
 width: 200px;
-float: left
+float: right;
 margin: 0px;
 }
 .text3{
-  width: 200px
+  width: 200px;
   float: left;
   margin: 0px;
 }
