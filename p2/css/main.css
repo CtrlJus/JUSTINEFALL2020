@@ -230,15 +230,15 @@ float: left;
 .text1{
   width:200px;
   float: right;
-  margin: auto;
+  margin: 0px;
 }
 .text2{
 width: 200px;
 float: left;
-margin: auto;
+margin: 0px;
 }
 .text3{
   width: 200px
   float: left;
-  margin: auto;
+  margin: 0px;
 }
