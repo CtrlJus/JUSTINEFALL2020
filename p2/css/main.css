@@ -223,7 +223,22 @@ text-decoration:none;
   margin: 20px;
 }
 .parent {
-display: flex;
-width: 200px;
+display: flow-root;
+width: 100%;
 float: left;
+}
+.text1{
+  width:100px;
+  float: right;
+  margin: auto;
+}
+.text2{
+width: 100px;
+float: right;
+margin: 0px;
+}
+.text3{
+  width:100px
+  float: right;
+  margin: 0px;
 }
